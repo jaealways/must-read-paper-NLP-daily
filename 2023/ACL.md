@@ -14,7 +14,7 @@
     
     *Raphael Tang, Linqing Liu, Akshat Pandey, Zhiying Jiang, Gefei Yang, Karun Kumar, Pontus Stenetorp, Jimmy Lin and Ferhan Ture*
     
-- [ ]  From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models
+- [x]  From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models
     
     *Shangbin Feng, Chan Young Park, Yuhan Liu and Yulia Tsvetkov*
     
@@ -37,7 +37,7 @@
 
 ### **Social Impact Award**:
 
-- [ ]  Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models
+- [x]  Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models
     
     *Myra Cheng, Esin Durmus and Dan Jurafsky*
     
