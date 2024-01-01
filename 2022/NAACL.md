@@ -1,0 +1,384 @@
+# Reference
+- [NAACL 2022 Best papers](https://2022.naacl.org/blog/best-papers/)
+- [NAACL 2022 Accpted papers](https://2022.naacl.org/program/accepted_papers/)
+
+
+# Best Papers
+- [ ] “Automatic Correction of Human Translations”
+
+    Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero
+
+- [ ] “FNet: Mixing Tokens with Fourier Transforms”
+
+    James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon
+
+- [ ] “FRUIT: Faithfully Reflecting Updated Information in Text”
+
+    Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang
+
+- [ ] “NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics”
+
+    Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah Smith, Yejin Choi
+
+- [ ] “User-Driven Research of Medical Note Generation Software”
+
+    Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov
+
+- [ ] “Automatic Correction of Human Translations”
+
+    Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero
+
+- [ ] “Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank”
+
+    Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky
+
+- [ ] “NewsEdits: A Dataset of News Article Revision Histories and a Novel Document-Level Reasoning Challenge”
+
+    Alexander Spangher, Xiang Ren, Jonathan May, Nanyun Peng
+
+
+# Accepted Papers
+
+- [ ] **Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics** Daniel Deutsch, Rotem Dror, Dan Roth
+- [ ] **MOVER: Mask, Over-generate and Rank for Hyperbole Generation** Yunxiang Zhang, Xiaojun Wan
+- [ ] **Aligning to Normative Values in Morally Informed Game Environments** Prithviraj Ammanabrolu, Liwei Jiang, Maarten Sap, Hanna Hajishirzi, Yejin Choi
+- [ ] **Diagnosing Vision-and-Language Navigation: What Really Matters** Wanrong Zhu, Yuankai Qi, Pradyumna Narayana, Kazoo Sone, Sugato Basu, Xin Eric Wang, Qi Wu, Miguel Eckstein, William Yang Wang
+- [ ] **HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction** Shuliang Liu, Xuming Hu, Chenwei Zhang, Shu’ang Li, Lijie Wen, Philip S. Yu
+- [ ] **Time Waits for No One! Analysis and Challenges of Temporal Misalignment** Kelvin Luu, Daniel Khashabi, Suchin Gururangan, Karishma Mandyam, Noah Smith
+- [ ] **Hate Speech and Counter Speech Detection: Conversational Context Does Matter** Xinchen Yu, Eduardo Blanco, Lingzi Hong
+- [ ] **Non-Autoregressive Chinese ASR Error Correction with Phonological Training** Zheng Fang, Ruiqing Zhang, Zhongjun He, Hua Wu, Yanan Cao
+- [ ] **Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection** Maarten Sap, Swabha Swayamdipta, Laura Vianna, Xuhui Zhou, Yejin Choi, Noah Smith
+- [ ] **Explaining Dialogue Evaluation Metrics using Adversarial Behavioral Analysis** Baber Khalid, SUNGJIN LEE
+- [ ] **You Don’t Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers’ Private Personas** Haoran Li, Yangqiu Song, Lixin Fan
+- [ ] **Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training** Yuanxin Liu, Fandong Meng, Zheng Lin, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou
+- [ ] **A Holistic Framework for Analyzing the COVID-19 Vaccine Debate** Maria Leonor Pacheco, Tunazzina Islam, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser
+- [ ] **Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation** Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen
+- [ ] **What do Toothbrushes do in the Kitchen? How Transformers Think our World is Structured** Alexander Henlein, Alexander Mehler
+- [ ] **Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints** Chun Zeng, Jiangjie Chen, Tianyi Zhuang, Rui Xu, Hao Yang, Qin Ying, shimin tao, Yanghua Xiao
+- [ ] **Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs** Ghazi Felhi, Joseph Le Roux, Djamé Seddah
+- [ ] **LaMemo: Language Modeling with Look-Ahead Memory** Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang
+- [ ] **Few-Shot Document-Level Relation Extraction** Nicholas Popovic, Michael Färber
+- [ ] **Template-free Prompt Tuning for Few-shot NER** Ruotian Ma, Xin Zhou, Tao Gui, Yiding Tan, Linyang Li, Qi Zhang, Xuanjing Huang
+- [ ] **Hyperbolic Relevance Matching for Neural Keyphrase Extraction** Mingyang Song, Yi Feng, Liping Jing
+- [ ] **DialSummEval: Revisiting Summarization Evaluation for Dialogues** Mingqi Gao, Xiaojun Wan
+- [ ] **CoMPM: Context Modeling with Speaker’s Pre-trained Memory Tracking for Emotion Recognition in Conversation** Joosung Lee, Wooin Lee
+- [ ] **CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning** Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Amit Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev
+- [ ] **Shedding New Light on the Language of the Dark Web** Youngjin Jin, Eugene Jang, Yongjae Lee, Seungwon Shin, Jin-Woo Chung
+- [ ] **Identifying Implicitly Abusive Remarks about Identity Groups using a Linguistically Informed Approach** Michael Wiegand, Elisabeth Eder, Josef Ruppenhofer
+- [ ] **Cross-Lingual Event Detection via Optimized Adversarial Training** Luis Fernando Guzman-Nateras, Minh Van Nguyen, Thien Huu Nguyen
+- [ ] **DEMix Layers: Disentangling Domains for Modular Language Modeling** Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah Smith, Luke Zettlemoyer
+- [ ] **Nearest Neighbor Knowledge Distillation for Neural Machine Translation** Zhixian Yang, Renliang Sun, Xiaojun Wan
+- [ ] **Cryptocoin Bubble Detection: A New Dataset, Task & Hyperbolic Models** Ramit Sawhney, Shivam Agarwal, Vivek Mittal, Paolo Rosso, Vikram Nanda, Sudheer Chava
+- [ ] **IDPG: An Instance-Dependent Prompt Generation Method** Zhuofeng Wu, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, V.G.Vinod Vydiswaran, Hao Ma
+- [ ] **Few-shot Subgoal Planning with Language Models** Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee
+- [ ] **Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification** Han Wang, Canwen Xu, Julian McAuley
+- [ ] **ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence** Yibo Hu, MohammadSaleh Hosseini, Erick Skorupa Parolin, Javier Osorio, Latifur Khan, Patrick Brandt, Vito D’Orazio
+- [ ] **Extreme Zero-Shot Learning for Extreme Text Classification** Yuanhao Xiong, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Inderjit S Dhillon
+- [ ] **Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation** Dingcheng Li, Zheng Chen, Eunah Cho, Jie Hao, Xiaohu Liu, Xing Fan, Chenlei Guo, Yang Liu
+- [ ] **CORWA: A Citation-Oriented Related Work Annotation Dataset** Xiangci Li, Biswadip Mandal, Jessica Ouyang
+- [ ] **When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes** Mycal Tucker, Tiwalayo Eisape, Peng Qian, Roger P. Levy, Julie Shah
+- [ ] **Maximum Bayes Smatch Ensemble Distillation for AMR Parsing** Young-Suk Lee, Ramon Fernandez Astudillo, Hoang Thanh Lam, Tahira Naseem, Radu Florian, Salim Roukos
+- [ ] **ExSum: From Local Explanations to Model Understanding** Yilun Zhou, Marco Tulio Ribeiro, Julie Shah
+- [ ] **QuALITY: Question Answering with Long Input Texts, Yes!** Richard Yuanzhe Pang, Alicia Vail Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny L Ma, Jana Thompson, He He, Samuel R. Bowman
+- [ ] **Visual Commonsense in Pretrained Unimodal and Multimodal Models** Chenyu Zhang, Benjamin Van Durme, Elias Stengel-Eskin, Zhuowan Li
+- [ ] **Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance** Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan, Bernhard Schölkopf
+- [ ] **Is “my favorite new movie” my favorite movie? Probing the Understanding of Recursive Noun Phrases** QING LYU, Hua Zheng, Daoxin Li, Li Zhang, Marianna Apidianaki, Chris Callison-Burch
+- [ ] **Syn2Vec: Synset Colexification Graphs for Lexical Semantic Similarity** John Harvill, Roxana Girju, Mark A. Hasegawa-Johnson
+- [ ] **TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding** Le Zhang, Zichao Yang, Diyi Yang
+- [ ] **Dual-Channel Evidence Fusion for Fact Verification over Texts and Tables** Nan Hu, Zirui Wu, Yuxuan Lai, Xiao Liu, Yansong Feng
+- [ ] **Semantically Informed Slang Interpretation** Zhewei Sun, Richard Zemel, Yang Xu
+- [ ] **Partner Personas Generation for Dialogue Response Generation** Hongyuan Lu, Wai Lam, Hong Cheng, Helen M. Meng
+- [ ] **Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences** Yifan Chen, Qi Zeng, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang
+- [ ] **On the Effect of Pretraining Corpora on In-context Few-shot Learning by a Large-scale Language Model** Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung
+- [ ] **KALA: Knowledge-Augmented Language Model Adaptation** Minki Kang, Jinheon Baek, Sung Ju Hwang
+- [ ] **DynamicTOC: Persona-based Table of Contents for Consumption of Long Documents** Himanshu Maheshwari, Nethraa Sivakumar, Shelly Jain, Tanvi Karandikar, Vinay Aggarwal, Navita Goyal, Sumit Shekhar
+- [ ] **Cross-modal Contrastive Learning for Speech Translation** Rong Ye, Mingxuan Wang, Lei Li
+- [ ] **Modeling Multi-Granularity Hierarchical Features for Relation Extraction** Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li
+- [ ] **A Corpus for Understanding and Generating Moral Stories** Jian Guan, Ziqi Liu, Minlie Huang
+- [ ] **JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering** Yueqing Sun, Qi Shi, Le Qi, Yu Zhang
+- [ ] **Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning** Fei Wang, Zhewei Xu, Pedro Szekely, Muhao Chen
+- [ ] **A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction** Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui
+- [ ] **An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling** Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui
+- [ ] **A Double-Graph Based Framework for Frame Semantic Parsing** Ce Zheng, Xudong Chen, Runxin Xu, Baobao Chang
+- [ ] **RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction** Yuan Liang, Zhuoxuan Jiang, di yin, Bo Ren
+- [ ] **SkillSpan: Hard and Soft Skill Extraction from English Job Postings** Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, Barbara Plank
+- [ ] **Jam or Cream First? Modeling Ambiguity in Neural Machine Translation with SCONES** Felix Stahlberg, Shankar Kumar
+- [ ] **DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks** LIN TIAN, Xiuzhen Zhang, Jey Han Lau
+- [ ] **Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy** Charles Welch, Allison Lahnala, Béla Neuendorf, Lucie Flek
+- [ ] **SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis** Zheng Zhang, Zili Zhou, Yanna Wang
+- [ ] **A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank** Dan Malkin, Gabriel Stanovsky
+- [ ] **Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks** Ruixiang Cui, Daniel Hershcovich, Anders Søgaard
+- [ ] **Interactive Symbol Grounding with Complex Referential Expressions** Rimvydas Rubavicius, Alex Lascarides
+- [ ] **Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization** Lulu Zhao, Fujia Zheng, Weihao Zeng, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu
+- [ ] **Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information** Niccolò Campolungo, Tommaso Pasini, Denis Emelin, Roberto Navigli
+- [ ] **Match made by BERT? Towards Interpretable Paper-Reviewer Assignments in NLP** Terne Sasha Thorn Jakobsen, Anna Rogers
+- [ ] **Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs** Songlin Yang, Wei Liu, Kewei Tu
+- [ ] **Learning as Conversation: Dialogue Systems Reinforced for Information Acquisition** Pengshan Cai, Hui Wan, Fei Liu, Mo Yu, hong yu, Sachindra Joshi
+- [ ] **Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora** Xisen Jin, Dejiao Zhang, Henghui Zhu, Wei Xiao, Shang-Wen Li, Xiaokai Wei, Andrew Arnold, Xiang Ren
+- [ ] **EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance Text Classification** Minyi Zhao, Lu Zhang, Yi Xu, Jiandong Ding, Jihong Guan, Shuigeng Zhou
+- [ ] **A Study of the Attention Abnormality in Trojaned BERTs** Weimin Lyu, Songzhu Zheng, Tengfei Ma, Chao Chen
+- [ ] **Quantifying Adaptability in Pre-trained Language Models with 500 Tasks** Belinda Z. Li, Jane A. Yu, Madian Khabsa, Luke Zettlemoyer, Alon Halevy, Jacob Andreas
+- [ ] **Disentangling Indirect Answers to Yes-No Questions in Real Conversations** Krishna Chaitanya Sanagavarapu, Jathin Pranav Singaraju, Anusha Kakileti, Anirudh Kaza, Aaron Abraham Mathews, Helen Li, Nathan Raul Brito, Eduardo Blanco
+- [ ] **Massive-scale Decoding for Text Generation using Lattices** Jiacheng Xu, Siddhartha Jonnalagadda, Greg Durrett
+- [ ] **Entity Linking via Explicit Mention-Mention Coreference Modeling** Dhruv Agarwal, Rico Angell, Nicholas Monath, Andrew McCallum
+- [ ] **GenIE: Generative Information Extraction** Martin Josifoski, Nicola De Cao, Maxime Peyrard, Fabio Petroni, Robert West
+- [ ] **Symbolic Knowledge Distillation: from General Language Models to Commonsense Models** Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi
+- [ ] **Measure and Improve Robustness in NLP Models: A Survey** Xuezhi Wang, Haohan Wang, Diyi Yang
+- [ ] **Using Paraphrases to Study Properties of Contextual Embeddings** Laura Burdick, Jonathan K Kummerfeld, Rada Mihalcea
+- [ ] **Disentangling Categorization in Multi-agent Emergent Communication** Washington Garcia, Hamilton Scott Clouse, Kevin R. B. Butler
+- [ ] **SURF: Semantic-level Unsupervised Reward Function for Machine Translation** Atijit Anuchitanukul, Julia Ive
+- [ ] **Connecting the Dots between Audio and Text without Parallel Data through Visual Knowledge Transfer** Yanpeng Zhao, Jack Hessel, Youngjae Yu, Ximing Lu, Rowan Zellers, Yejin Choi
+- [ ] **CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning** Siddharth Verma, Justin Fu, Sherry Yang, Sergey Levine
+- [ ] **Multi-Vector Models with Textual Guidance for Fine-Grained Scientific Document Similarity** Sheshera Mysore, Arman Cohan, Tom Hope
+- [ ] **Testing the Ability of Language Models to Interpret Figurative Language** Emmy Liu, Chenxuan Cui, Kenneth Zheng, Graham Neubig
+- [ ] **Compositional Task-Oriented Parsing as Abstractive Question Answering** Wenting Zhao, Konstantine Arkoudas, Weiqi Sun, Claire Cardie
+- [ ] **What kind of company do words keep? Revisiting the distributional semantics of J.R. Firth & Zellig Harris** Mikael Brunila, Jack LaViolette
+- [ ] **Imagination-Augmented Natural Language Understanding** Yujie Lu, Wanrong Zhu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
+- [ ] **Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling** Jakob Prange, Nathan Schneider, Lingpeng Kong
+- [ ] **Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies** Minh Van Nguyen, Bonan Min, Franck Dernoncourt, Thien Huu Nguyen
+- [ ] **Improving Compositional Generalization with Latent Structure and Data Augmentation** Linlu Qiu, Peter Shaw, Panupong Pasupat, Paweł Krzysztof Nowak, Tal Linzen, Fei Sha, Kristina Toutanova
+- [ ] **Consolidating Answers in Question Answering Systems** Wenxuan Zhou, Qiang Ning, Heba Elfardy, Kevin Small, Muhao Chen
+- [ ] **FNet: Mixing Tokens with Fourier Transforms** James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon
+- [ ] **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** Yisi Sang, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton
+- [ ] **Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation** Siyu Lai, Zhen Yang, Fandong Meng, Xue Zhang, Yufeng Chen, Jinan Xu, Jie Zhou
+- [ ] **ProQA: Structural Prompt-based Pre-training for Unified Question Answering** Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan
+- [ ] **Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction** Junjie Li, Jianfei Yu, Rui Xia
+- [ ] **DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings** Yung-Sung Chuang, Rumen Dangovski, Hongyin Luo, Yang Zhang, Shiyu Chang, Marin Soljacic, Shang-Wen Li, Scott Yih, Yoon Kim, James R. Glass
+- [ ] **Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers** Vivek Kumar, Rishabh Maheshwary, Vikram Pudi
+- [ ] **Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold** Yanan Wu, Keqing He, Yuanmeng Yan, QiXiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu
+- [ ] **COGMEN: COntextualized GNN based Multimodal Emotion recognitioN** Abhinav Joshi, Ashwani Bhat, Ayush Jain, Atin Vikram Singh, Ashutosh Modi
+- [ ] **KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media** Wenqian Zhang, Shangbin Feng, Zilong Chen, Zhenyu Lei, Jundong Li, Minnan Luo
+- [ ] **Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances** Wongyu Kim, Youbin Ahn, Donghyun Kim, Kyong-Ho Lee
+- [ ] **Early Rumor Detection Using Neural Hawkes Process with a New Benchmark Dataset** Fengzhu ZENG, Wei Gao
+- [ ] **Joint Learning-based Heterogeneous Graph Attention Network for Timeline Summarization** Jingyi You, Dongyuan Li, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura
+- [ ] **Connecting Loss Difference with Equal Opportunity for Fair Models** Aili Shen, Xudong Han, Trevor Cohn, Timothy Baldwin, Lea Frermann
+- [ ] **Unsupervised Stem-based Cross-lingual Part-of-Speech Tagging for Morphologically Rich Low-Resource Languages** Ramy Eskander, Cass Lowry, Sujay Khandagale, Judith Lynn Klavans, Maria Polinsky, Smaranda Muresan
+- [ ] **Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting** Linzhi Wu, Pengjun Xie, Jie Zhou, Meishan Zhang, Ma Chunping, Guangwei Xu, Min Zhang
+- [ ] **Bilingual Tabular Inference: A Case Study on Indic Languages** Chaitanya Agarwal, Vivek Gupta, Anoop Kunchukuttan, Manish Shrivastava
+- [ ] **A Complex KBQA System using Multiple Reasoning Paths** Yu Wang, Vijay Srinivasan, Hongxia Jin
+- [ ] **WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models** Benjamin Minixhofer, Fabian Paischer, Navid Rekabsaz
+- [ ] **DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction** MeiHan Tong, Bin Xu, Shuai Wang, Meihuan Han, Yixin Cao, Jiangqi Zhu, Siyu Chen, Lei Hou, Juanzi Li
+- [ ] **On Transferability of Prompt Tuning for Natural Language Processing** Yusheng Su, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou
+- [ ] **Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation** Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang
+- [ ] **Knowledge Inheritance for Pre-trained Language Models** Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, Yusheng Su, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou
+- [ ] **TRUE: Re-evaluating Factual Consistency Evaluation** Or Honovich, Roee Aharoni, Jonathan Herzig, Hagai Taitelbaum, Doron Kukliansy, Vered Cohen, Thomas Scialom, Idan Szpektor, Avinatan Hassidim, Yossi Matias
+- [ ] **Dynamic Multistep Reasoning based on Video Scene Graph for Video Question Answering** JianGuo Mao, Wenbin Jiang, Xiangdong Wang, Zhifan Feng, Yajuan Lyu, Hong Liu, Yong Zhu
+- [ ] **EASE: Entity-Aware Contrastive Learning of Sentence Embedding** Sosuke Nishikawa, Ryokan Ri, Ikuya Yamada, Yoshimasa Tsuruoka, Isao Echizen
+- [ ] **From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization** Yue Fang, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou
+- [ ] **Residue-Based Natural Language Adversarial Attack Detection** Vyas Raina, Mark Gales
+- [ ] **A Computational Acquisition Model for Multimodal Word Categorization** Uri Berger, Gabriel Stanovsky, Omri Abend, Lea Frermann
+- [ ] **On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning** Tingting Ma, Qianhui Wu, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin
+- [ ] **Can Rationalization Improve Robustness?** Howard Chen, Jacqueline He, Karthik R Narasimhan, Danqi Chen
+- [ ] **One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation** Chenze Shao, Xuanfu Wu, Yang Feng
+- [ ] **GMN: Generative Multi-modal Network for Practical Document Information Extraction** Haoyu Cao, Jiefeng Ma, Antony Guo, Yiqing Hu, Hao Liu, Deqiang Jiang, Yinsong Liu, Bo Ren
+- [ ] **Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants** Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, Douwe Kiela
+- [ ] **Adaptable Adapters** Nafise Sadat Moosavi, Quentin Delfosse, Kristian Kersting, Iryna Gurevych
+- [ ] **Maize: Effective and Efficient Retrieval via Lightweight Late Interaction** Keshav Santhanam, Omar Khattab, Jon Saad-Falcon, Christopher Potts, Matei Zaharia
+- [ ] **Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog** Chia-Chien Hung, Anne Lauscher, Ivan Vulić, Simone Paolo Ponzetto, Goran Glavaš
+- [ ] **FRUIT: Faithfully Reflecting Updated Information in Text** Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang
+- [ ] **Learning the Ordering of Coordinate Compounds and Elaborate Expressions in Hmong, Lahu, and Chinese** Chenxuan Cui, Katherine J. Zhang, David R Mortensen
+- [ ] **Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities** Benjamin Hsu, Graham Horwood
+- [ ] **PROMPT WAYWARDNESS: The Curious Case of Discretized Interpretation of Continuous Prompts** Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sameer Singh, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Yejin Choi
+- [ ] **When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer** Ameet Deshpande, Partha Talukdar, Karthik R Narasimhan
+- [ ] **Benchmarking Intersectional Biases in NLP** John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi
+- [ ] **Sonnet Generation by Training on Non-poetic Texts with Discourse-level Coherence and Poetic Features** Yufei Tian, Nanyun Peng
+- [ ] **Improving In-Context Few-Shot Learning via Self-Supervised Training** Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov, Zornitsa Kozareva
+- [ ] **Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand** Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Lavinia Dunagan, Jacob Daniel Morrison, Alexander Fabbri, Yejin Choi, Noah Smith
+- [ ] **ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models** Junyi Li, Tianyi Tang, Zheng Gong, Lixin Yang, Zhuohao Yu, Zhipeng Chen, Jingyuan Wang, Xin Zhao, Ji-Rong Wen
+- [ ] **Learning to Transfer Prompts for Text Generation** Junyi Li, Tianyi Tang, Jian-Yun Nie, Ji-Rong Wen, Xin Zhao
+- [ ] **DocAMR: Multi-Sentence AMR Representation and Evaluation** Tahira Naseem, Austin Blodgett, Sadhana Kumaravel, Tim O’Gorman, Young-Suk Lee, Jeffrey Flanigan, Ramon Fernandez Astudillo, Radu Florian, Salim Roukos, Nathan Schneider
+- [ ] **Lifting the Curse of Multilinguality by Pre-training Modular Transformers** Jonas Pfeiffer, Naman Goyal, Xi Victoria Lin, Xian Li, James Cross, Sebastian Riedel, Mikel Artetxe
+- [ ] **Transparent Human Evaluation for Image Captioning** Jungo Kasai, Keisuke Sakaguchi, Lavinia Dunagan, Jacob Daniel Morrison, Ronan Le Bras, Yejin Choi, Noah Smith
+- [ ] **TWEETSPIN: Fine-grained Propaganda Detection in Social Media Using Multi-View Representations** Prashanth Vijayaraghavan, Soroush Vosoughi
+- [ ] **On the Use of Bert for Automated Essay Scoring: Joint Learning of Multi-Scale Essay Representation** Yongjie Wang, Chuan Wang, Ruobing Li, Hui Lin
+- [ ] **Multimodal Dialogue State Tracking** Hung Le, Nancy F. Chen, Steven HOI
+- [ ] **VGNMN: Video-grounded Neural Module Networks for Video-Grounded Dialogue Systems** Hung Le, Nancy F. Chen, Steven HOI
+- [ ] **CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking** Xuming Hu, Zhijiang Guo, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
+- [ ] **Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation** Zhexin Zhang, Jiaxin Wen, Jian Guan, Minlie Huang
+- [ ] **Fine-grained Location Extraction via Curriculum Learning** Pei Chen, Haotian Xu, Cheng Zhang, Ruihong Huang
+- [ ] **LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking** Yifan Wang, Jing Zhao, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He
+- [ ] **Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting** Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang
+- [ ] **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline** Xiangyang Liu, Tianxiang Sun, JunLiang He, Jiawen Wu, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu
+- [ ] **Clues Before Answers: Generation-Enhanced Multiple-Choice QA** Zixian Huang, Ao Wu, Jiaying Zhou, Yu Gu, Yue Zhao, Gong Cheng
+- [ ] **Unsupervised Paraphrasability Prediction for Compound Nominalizations** John Sie Yuen Lee, Ho Hung Lim, Carol Webster
+- [ ] **FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations** Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal
+- [ ] **Neural Language Taskonomy: Which NLP Tasks are the most Predictive of fMRI Brain Activity?** SUBBA REDDY OOTA, Veeral Agarwal, JASHN ARORA, mounika marreddy, Manish Gupta, Bapi Raju Surampudi
+- [ ] **Curriculum: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding** Zeming Chen, Qiyue Gao
+- [ ] **A Dataset for N-ary Relation Extraction of Drug Combinations** Aryeh Tiktinsky, Vijay Viswanathan, Danna Niezni, Dana Meron Azagury, Yosi Shamay, Hillel Taub-Tabib, Tom Hope, Yoav Goldberg
+- [ ] **ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition** Xinyu Wang, Min Gui, Yong Jiang, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Kewei Tu
+- [ ] **Efficient Constituency Tree based Encoding for Natural Language to Bash Translation** Shikhar Bharadwaj, Shirish Shevade
+- [ ] **Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation** Shumpei Inoue, Tsungwei Liu, Son Hong Nguyen, Minh-Tien Nguyen
+- [ ] **NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias** Nayeon Lee, Yejin Bang, Tiezheng YU, Andrea Madotto, Pascale Fung
+- [ ] **MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction** Yue Zhang, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Fei Huang, Min Zhang
+- [ ] **Boosted Dense Retriever** Patrick Lewis, Barlas Oguz, Wenhan Xiong, Fabio Petroni, Scott Yih, Sebastian Riedel
+- [ ] **Analyzing Encoded Concepts in Transformer Language Models** Hassan Sajjad, Nadir Durrani, Fahim Dalvi, Firoj Alam, Abdul Rafae Khan, Jia Xu
+- [ ] **Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis** Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, Dayiheng Liu, Baosong Yang, Juncheng Liu, Bryan Hooi
+- [ ] **A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation** David Ifeoluwa Adelani, Jesujoba Oluwadara Alabi, Angela Fan, Julia Kreutzer, Xiaoyu Shen, Machel Reid, Dana Ruiter, Dietrich Klakow, Peter Nabende, Ernie Chang, Tajuddeen Gwadabe, Freshia Sackey, Bonaventure F. P. Dossou, Chris Chinenye Emezue, Colin Leong, Michael Beukman, Shamsuddeen Hassan Muhammad, Guyo Dub Jarso, Oreen Yousuf, Andre Niyongabo Rubungo, Gilles HACHEME, Eric Peter Wairagala, Muhammad Umair Nasir, Benjamin Ayoade Ajibade, Tunde Oluwaseyi Ajayi, Yvonne Wambui Gitau, Jade Abbott, Mohamed Ahmed, Millicent Ochieng, Anuoluwapo Aremu, Perez Ogayo, Jonathan Mukiibi, Fatoumata Ouoba Kabore, Godson Koffi KALIPE, Derguene Mbaye, Allahsera Auguste Tapo, Victoire Memdjokam Koagne, Edwin Munkoh-Buabeng, Valencia Wagner, Idris Abdulmumin, Ayodele Awokoya
+- [ ] **Document-Level Event Argument Extraction by Leveraging Redundant Information and Closed Boundary Loss** Hanzhang Zhou, Kezhi Mao
+- [ ] **Features or Spurious Artifacts? Data-centric Baselines for Fair and Robust Hate Speech Detection** Alan Ramponi, Sara Tonelli
+- [ ] **Low Resource Style Transfer via Domain Adaptive Meta Learning** Xiangyang Li, Xiang Long, Yu Xia, Sujian Li
+- [ ] **Progressive Class Semantic Matching for Semi-supervised Text Classification** Haiming Xu, Lingqiao Liu, Ehsan M Abbasnejad
+- [ ] **Domain Confused Contrastive Learning for Unsupervised Domain Adaptation** Quanyu Long, Tianze Luo, Wenya Wang, Sinno Pan
+- [ ] **Interpretable Proof Generation via Iterative Backward Reasoning** Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu
+- [ ] **PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding** Antoine Chaffin, Vincent Claveau, Ewa Kijak
+- [ ] **Triggerless Backdoor Attack for NLP Tasks with Clean Labels** Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan
+- [ ] **Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification** Yang Xiao, Jinlan Fu, See-Kiong Ng, Pengfei Liu
+- [ ] **Document-Level Relation Extraction with Sentences Importance Estimation and Focusing** Wang Xu, Kehai Chen, Lili Mou, Tiejun Zhao
+- [ ] **Improving Entity Disambiguation by Reasoning over a Knowledge Base** Tom Ayoola, Joseph Fisher, Andrea Pierleoni
+- [ ] **Learning to Borrow– Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion** Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala
+- [ ] **Do Trajectories Encode Verb Meaning?** Dylan Ebert, Chen Sun, Ellie Pavlick
+- [ ] **Selective Differential Privacy for Language Modeling** Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu
+- [ ] **Robust Conversational Agents against Imperceptible Toxicity Triggers** Ninareh Mehrabi, Ahmad Beirami, Fred Morstatter, Aram Galstyan
+- [ ] **Enhancing Knowledge Selection for Grounded Dialogues via Document Semantic Graphs** Sha Li, Mahdi Namazifar, Di Jin, Mohit Bansal, Heng Ji, Yang Liu, Dilek Hakkani-Tur
+- [ ] **MetaICL: Learning to Learn In Context** Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi
+- [ ] **Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition** Besnik Fetahu, Anjie Fang, Oleg Rokhlenko, Shervin Malmasi
+- [ ] **Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization** Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych
+- [ ] **Multi-Domain Targeted Sentiment Analysis** Orith Toledo-Ronen, Matan Orbach, Yoav Katz, Noam Slonim
+- [ ] **Gender Bias in Masked Language Models for Multiple Languages** Masahiro Kaneko, Aizhan Imankulova, Danushka Bollegala, Naoaki Okazaki
+- [ ] **Federated Learning with Noisy User Feedback** Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, Rahul Gupta
+- [ ] **Don’t sweat the small stuff, classify the rest: Sample Shielding to protect text classifiers against adversarial attacks** Jonathan Rusert, Padmini Srinivasan
+- [ ] **Re2G: Retrieve, Rerank, Generate** Michael Glass, Gaetano Rossiello, Md Faisal Mahbub Chowdhury, Ankita Naik, Pengshan Cai, Alfio Gliozzo
+- [ ] **Learning to Retrieve Passages without Supervision** Ori Ram, Gal Shachaf, Omer Levy, Jonathan Berant, Amir Globerson
+- [ ] **Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection** Esma Balkir, Isar Nejadgholi, Kathleen C. Fraser, Svetlana Kiritchenko
+- [ ] **Learning To Retrieve Prompts for In-Context Learning** Ohad Rubin, Jonathan Herzig, Jonathan Berant
+- [ ] **Unified Semantic Typing with Meaningful Label Inference** James Y. Huang, Bangzheng Li, Jiashu Xu, Muhao Chen
+- [ ] **A Structured Span Selector for Span Prediction Tasks** Tianyu Liu, Yuchen Eleanor Jiang, Ryan D Cotterell, Mrinmaya Sachan
+- [ ] **How Gender Debiasing Affects Internal Model Representations, and Why It Matters** Hadas Orgad, Seraphina Goldfarb-Tarrant, Yonatan Belinkov
+- [ ] **QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization** Alexander Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong
+- [ ] **Training Mixed-Domain Translation Models via Federated Learning** Peyman Passban, Tanya Roosta, Rahul Gupta, ankit Chadha, Clement Chung
+- [ ] **Interactive Query-Assisted Summarization via Deep Reinforcement Learning** Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Ido Dagan, Yael Amsterdamer
+- [ ] **Text Style Transfer via Optimal Transport** Nasim Nouri
+- [ ] **AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization** Alexander Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona T. Diab
+- [ ] **What do tokens know about their characters and how do they know it?** Ayush Kaushal, Kyle Mahowald
+- [ ] **WiC = TSV = WSD: On the Equivalence of Three Semantic Tasks** Bradley Hauer, Grzegorz Kondrak
+- [ ] **Combating the curse of multilinguality in cross-lingual WSD via the application of sparsified contextualized word representations** Gábor Berend
+- [ ] **A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony** Tulika Saha, Saichethan Miriyala Reddy, Anindya Sundar Das, Sriparna Saha, Pushpak Bhattacharyya
+- [ ] **Does Summary Evaluation Survive Translation to Other Languages?** Spencer Braun, Oleg Vasilyev, Neslihan Iskender, John Bohannon
+- [ ] **LITE: Intent-based Task Representation Learning Using Weak Supervision** Naoki Otani, Michael Gamon, Sujay Kumar Jauhar, Mei Yang, Sri Raghu Malireddi, Oriana Riva
+- [ ] **SAIS: Supervising and Augmenting Intermediate Steps for Document-Level Relation Extraction** Yuxin Xiao, Zecheng Zhang, Yuning Mao, Carl Yang, Jiawei Han
+- [ ] **Towards Understanding Large-Scale Discourse Structures in Pre-Trained and Fine-Tuned Language Models** Patrick Huber, Giuseppe Carenini
+- [ ] **Sparse Distillation: Speeding Up Text Classification by Using Bigger Student Models** Qinyuan Ye, Madian Khabsa, Mike Lewis, Sinong Wang, Xiang Ren, Aaron Jaech
+- [ ] **GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval** Kexin Wang, Nandan Thakur, Nils Reimers, Iryna Gurevych
+- [ ] **Do Prompt-Based Models Really Understand the Meaning of Their Prompts?** Albert Webson, Ellie Pavlick
+- [ ] **MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection** Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Thien Huu Nguyen
+- [ ] **End-to-End Chinese Speaker Identification: Formulation, Annotation, and Methods** Dian Yu, Ben Zhou, Dong Yu
+- [ ] **Learning to Express in Knowledge-Grounded Conversation** Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan
+- [ ] **Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning** Yu Jin Kim, Beong-woo Kwak, Youngwook Kim, Reinald Kim Amplayo, seung-won hwang, Jinyoung Yeo
+- [ ] **Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks** Akari Asai, Matt Gardner, Hanna Hajishirzi
+- [ ] **On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation** Kelly Marchisio, Markus Freitag, David Grangier
+- [ ] **Generic and Trend-aware Curricula for Relation Extraction in Text Graphs** Nidhi Vakil, Hadi Amiri
+- [ ] **Locally Aggregated Feature Attribution on Natural Language Understanding** Sheng Zhang, Jin Wang, Haitao Jiang, Rui Song
+- [ ] **Sentence-Level Resampling for Named Entity Recognition** Xiaochen Wang, Yue Wang
+- [ ] **Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models** Sanghwan Bae, Donghyun Kwak, Sungdong Kim, Donghoon Ham, Soyoung Kang, Sang-Woo Lee, Woomyoung Park
+- [ ] **KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation** Marzieh S. Tahaei, Ella Charlaix, Vahid Partovi Nia, Ali Ghodsi, Mehdi Rezagholizadeh
+- [ ] **D2U: Distance-to-Uniform Learning for Out-of-Scope Detection** Eyup Halit Yilmaz, Cagri Toraman
+- [ ] **Modeling Exemplification in Long-form Question Answering via Retrieval** Shufan Wang, Fangyuan Xu, Laure Thompson, Eunsol Choi, Mohit Iyyer
+- [ ] **Don’t Take It Literally: An Edit-Invariant Sequence Loss for Text Generation** Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu
+- [ ] **Unsupervised Cross-Lingual Transfer of Structured Predictors without Source Data** Kemal Kurniawan, Lea Frermann, Philip Schulz, Trevor Cohn
+- [ ] **CS1QA: A Dataset for Code-based Question Answering in an Introductory Programming Course** Changyoon Lee, Yeon Seonwoo, Alice Oh
+- [ ] **Event Schema Induction with Double Graph Autoencoders** Xiaomeng Jin, Manling Li, Heng Ji
+- [ ] **Multi-Relational Graph Transformer for Automatic Short Answer Grading** Rajat Agarwal, Varun Khurana, Karish Grover, Mukesh Mohania, Vikram Goyal
+- [ ] **Even the Simplest Baseline Needs Careful Re-investigation: A Case Study on XML-CNN** Si-An Chen, Jie-Jyun Liu, Tsung-Han Yang, Hsuan-Tien Lin, Chih-Jen Lin
+- [ ] **Simple Local Attentions Remain Competitive for Long-Context Tasks** Wenhan Xiong, Barlas Oguz, Anchit Gupta, Xilun Chen, Diana Liskovich, Omer Levy, Scott Yih, Yashar Mehdad
+- [ ] **Frustratingly Easy System Combination for Grammatical Error Correction** Muhammad Reza Qorib, Seung-Hoon Na, Hwee Tou Ng
+- [ ] **All You May Need for VQA are Image Captions** Soravit Changpinyo, Doron Kukliansy, Idan Szpektor, Xi Chen, Nan Ding, Radu Soricut
+- [ ] **MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification** Jianhai Zhang, Mieradilijiang Maimaiti, Gao Xing, Yuanhang Zheng, Ji Zhang
+- [ ] **Hero-Gang Neural Model For Named Entity Recognition** Jinpeng Hu, Yaling Shen, Yang Liu, Xiang Wan, Tsung-Hui Chang
+- [ ] **Bridging the Gap between Language Models and Cross-Lingual Sequence Labeling** Nuo Chen, Linjun Shou, MING GONG, Jian Pei, Daxin Jiang
+- [ ] **DEGREE: A Data-Efficient Generation-Based Event Extraction Model** I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
+- [ ] **MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting** Anne Lauscher, Brandon Ko, Bailey Kuehl, Sophie Johnson, Arman Cohan, David Jurgens, Kyle Lo
+- [ ] **The Devil is in the Details: On the Pitfalls of Vocabulary Selection in Neural Machine Translation** Tobias Domhan, Eva Hasler, Ke Tran, Sony Trenous, Bill Byrne, Felix Hieber
+- [ ] **Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering** Rajat Kumar, Mayur Patidar, VAIBHAV VARSHNEY, Lovekesh Vig, Gautam Shroff
+- [ ] **RSTGen: Imbuing Fine-Grained Interpretable Control into Long-FormText Generators** Rilwan Akanni Adewoyin, Ritabrata Dutta, Yulan He
+- [ ] **TIE: Topological Information Enhanced Structural Reading Comprehension on Web Pages** Zihan Zhao, Lu Chen, Ruisheng Cao, Hongshen Xu, Xingyu Chen, Kai Yu
+- [ ] **Non-Autoregressive Machine Translation: It’s Not as Fast as it Seems** Jindřich Helcl, Barry Haddow, Alexandra Birch
+- [ ] **Proposition-Level Clustering for Multi-Document Summarization** Ori Ernst, Avi Caciularu, Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger, Ido Dagan
+- [ ] **A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation** Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, Yi Ren, Tao Qin, Tie-Yan Liu
+- [ ] **ValCAT: Generating Variable-Length Contextualized Adversarial Transformations using Encoder-Decoder** Chuyun Deng, Mingxuan Liu, Yue Qin, Jia Zhang, Hai-Xin Duan, Donghong Sun
+- [ ] **Representation Learning for Conversational Data using Discourse Mutual Information Maximization** Bishal Santra, Sumegh Roychowdhury, Aishik Mandal, Vasu Gurram, Atharva Naik, Manish Gupta, Pawan Goyal
+- [ ] **MuPAD: A Chinese Multi-Domain Predicate-Argument Dataset** Yahui Liu, Haoping Yang, Chen Gong, Qingrong Xia, Zhenghua Li, Min Zhang
+- [ ] **Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models** Pieter Delobelle, Ewoenam Kwaku Tokpo, Toon Calders, Bettina Berendt
+- [ ] **Improving Constituent Representation with Hypertree Neural Networks** Hao Zhou, Gongshen Liu, Kewei Tu
+- [ ] **Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness** Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai
+- [ ] **OPERA: Operation-Pivoted Discrete Reasoning over Text** Yongwei Zhou, Junwei Bao, Chaoqun Duan, Haipeng Sun, jiahui liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao
+- [ ] **Guiding Visual Question Generation** Nihir Vedd, Zixu Wang, Marek Rei, yishu miao, Lucia Specia
+- [ ] **Implicit n-grams Induced by Recurrence** Xiaobing Sun, Wei Lu
+- [ ] **MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation** Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao, Weizhu Chen
+- [ ] **Aspect Is Not You Need: No-aspect Differential Sentiment Framework for Aspect-based Sentiment Analysis** Jiahao Cao, Rui Liu, Huailiang Peng, Lei Jiang, Xu Bai
+- [ ] **Disentangled Learning of Stance and Aspect Topics for Vaccine Attitude Detection in Social Media** Lixing Zhu, Gabriele Pergola, Zheng Fang, Robert Procter, Yulan He
+- [ ] **BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation** Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Rico Sennrich, Ryan Cotterell, Mrinmaya Sachan
+- [ ] **Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding** Ao Jia, Yu He, Yazhou Zhang, Sagar Uprety, Dawei Song, Christina Lioma
+- [ ] **Graph and Attention Based Fact Verification and Heterogeneous COVID-19 Claims Dataset** Miguel Arana-Catania, Elena Kochkina, Arkaitz Zubiaga, Maria Liakata, Robert Procter, Yulan He
+- [ ] **Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays** Rahul Kumar, Sandeep Mathias, Sriparna Saha, Pushpak Bhattacharyya
+- [ ] **Forecasting COVID-19 Caseloads Using Unsupervised Embedding Clusters of Social Media Posts** Felix Drinkall, Stefan Zohren, Janet B. Pierrehumbert
+- [ ] **Go Back in Time: Generating Flashbacks in Stories with Event Plots and Temporal Prompts** Rujun Han, Hong Chen, Yufei Tian, Nanyun Peng
+- [ ] **Label Anchored Contrastive Learning for Language Understanding** Zhenyu Zhang, Yuming Zhao, Meng Chen, Xiaodong He
+- [ ] **AcTune: Uncertainty-Aware Active Self-Training for Active Fine-Tuning of Pretrained Language Models** Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang
+- [ ] **Quality-Aware Decoding for Neural Machine Translation** Patrick Fernandes, António Farinhas, Ricardo Rei, José G. C. de Souza, Perez Ogayo, Graham Neubig, Andre Martins
+- [ ] **Learning to Selectively Learn for Weakly Supervised Paraphrase Generation with Model-based Reinforcement Learning** Haiyan Yin, Dingcheng Li, Ping Li
+- [ ] **On the Economics of Multilingual Few-shot Learning: Modeling the Cost-Performance Trade-offs of Machine Translated and Manual Data** Kabir Ahuja, Monojit Choudhury, Sandipan Dandapat
+- [ ] **Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate** Hannah Rose Kirk, Bertram Vidgen, Paul Rottger, Tristan Thrush, Scott A. Hale
+- [ ] **Efficient Hierarchical Domain Adaptation for Pretrained Language Models** Alexandra Chronopoulou, Matthew E Peters, Jesse Dodge
+- [ ] **Commonsense and Named Entity Aware Knowledge Grounded Dialogue Generation** Deeksha varshney, Akshara Prabhakar, Asif Ekbal
+- [ ] **Quantifying Synthesis and Fusion and their Impact on Machine Translation** Arturo Oncevay, Duygu Ataman, Niels van Berkel, Barry Haddow, Alexandra Birch, Johannes Bjerva
+- [ ] **Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models** Yang Trista Cao, Anna Sotnikova, Hal Daumé III, Rachel Rudinger, Linda Zou
+- [ ] **Context-Aware Abbreviation Expansion Using Large Language Models** Shanqing Cai, Subhashini Venugopalan, Katrin Tomanek, Ajit Narayanan, Meredith Ringel Morris, Michael Brenner
+- [ ] **MultiSpanQA: A Dataset for Multi-Span Question Answering** Haonan Li, Martin Tomko, Maria Vasardani, Timothy Baldwin
+- [ ] **DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions** Neha Nayak Kennard, Tim O’Gorman, Rajarshi Das, Akshay Sharma, Chhandak Bagchi, Matthew Clinton, Pranay Kumar Yelugam, Hamed Zamani, Andrew McCallum
+- [ ] **Cross-Domain Detection of GPT-2-Generated Technical Text** Juan Diego Rodríguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan
+- [ ] **Towards a Progression-Aware Autonomous Dialogue Agent** Abraham Sanders, Tomek Strzalkowski, Mei Si, Albert Chang
+- [ ] **Unsupervised Slot Schema Induction for Task-oriented Dialog** Dian Yu, Mingqiu Wang, Yuan Cao, Izhak Shafran, Laurent El Shafey, Hagen Soltau
+- [ ] **Database Search Results Disambiguation for Task-Oriented Dialog Systems** Kun Qian, Satwik Kottur, Ahmad Beirami, Shahin Shayandeh, Paul A. Crook, Alborz Geramifard, Zhou Yu, Chinnadhurai Sankar
+- [ ] **Probing via Prompting and Pruning** Jiaoda Li, Mrinmaya Sachan, Ryan D Cotterell
+- [ ] **CoSe-Co: Text Conditioned Generative CommonSense Contextualizer** Rachit Bansal, Milan Aggarwal, Sumit Bhatia, Jivat Neet Kaur, Balaji Krishnamurthy
+- [ ] **DREAM: Improving Situational QA by First Elaborating the Situation** Yuling Gu, Bhavana Dalvi, Peter Clark
+- [ ] **Masked Part-Of-Speech Model: Does modeling long context help unsupervised POS-tagging?** Xiang Zhou, Shiyue Zhang, Mohit Bansal
+- [ ] **Inducing and Using Alignments for Transition-based AMR Parsing** Andrew Drozdov, Jiawei Zhou, Radu Florian, Andrew McCallum, Tahira Naseem, Yoon Kim, Ramon Fernandez Astudillo
+- [ ] **EmpHi: Generating Empathetic Responses with Human-like Intents** MAO YAN CHEN, Siheng Li, Yujiu Yang
+- [ ] **ScAN: Suicide Attempt and Ideation Events Dataset** Bhanu Pratap Singh Rawat, Samuel Kovaly, Hong Yu, Wilfred Pigeon
+- [ ] **FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization** David Wan, Mohit Bansal
+- [ ] **DocTime: A Document-level Temporal Dependency Graph Parser** Puneet Mathur, Vlad I Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Hung Tran, Ani Nenkova, Dinesh Manocha, Rajiv Jain
+- [ ] **When a sentence does not introduce a discourse entity, Transformer-based models still often refer to it** Sebastian Schuster, Tal Linzen
+- [ ] **KAT: A Knowledge Augmented Transformer for Vision-and-Language** Liangke Gui, Borui Wang, Qiuyuan Huang, Alexander G Hauptmann, Yonatan Bisk, Jianfeng Gao
+- [ ] **Provably Confidential Language Modelling** Xuandong Zhao, Lei Li, Yu-Xiang Wang
+- [ ] **OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering** Zhengbao Jiang, Yi Mao, Pengcheng He, Graham Neubig, Weizhu Chen
+- [ ] **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination** Hyounghun Kim, Abhay Zala, Mohit Bansal
+- [ ] **CompactIE: Compact Facts in Open Information Extraction** Farima Fatahi Bayat, Nikita Bhutani, H. Jagadish
+- [ ] **WALNUT: A Benchmark on Semi-weakly Supervised Learning for Natural Language Understanding** Guoqing Zheng, Giannis Karamanolakis, Kai Shu, Ahmed Hassan Awadallah
+- [ ] **Textless Speech-to-Speech Translation on Real Data** Ann Lee, Hongyu Gong, Paul-Ambroise Duquenne, Holger Schwenk, Peng-Jen Chen, Changhan Wang, Sravya Popuri, Juan Pino, Jiatao Gu, Wei-Ning Hsu
+- [ ] **GRAM: Fast Fine-tuning of Pre-trained Language Models for Content-based Collaborative Filtering** Yoonseok Yang, Kyu Seok Kim, Minsam Kim, Juneyoung Park
+- [ ] **Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection** Angelica Chen, Vicky Zayats, Daniel David Walker, Dirk Padfield
+- [ ] **Explaining Toxic Text via Knowledge Enhanced Text Generation** Rohit Sridhar, Diyi Yang
+- [ ] **NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics** Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah Smith, Yejin Choi
+- [ ] **Learning Dialogue Representations from Consecutive Utterances** Zhihan Zhou, Dejiao Zhang, Wei Xiao, Nicholas Dingwall, Xiaofei Ma, Andrew Arnold, Bing Xiang
+- [ ] **Long-term Control for Dialogue Generation: Methods and Evaluation** Ramya Ramakrishnan, Hashan Buddhika Narangodage, Mauro Schilman, Kilian Q Weinberger, Ryan McDonald
+- [ ] **On the Use of External Data for Spoken Named Entity Recognition** Ankita Pasad, Felix Wu, Suwon Shon, Karen Livescu, Kyu Han
+- [ ] **Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation** Jinyi Hu, Xiaoyuan Yi, Wenhao Li, Maosong Sun, Xing Xie
+- [ ] **Meta Learning for Natural Language Processing: A Survey** Hung-yi Lee, Shang-Wen Li, Thang Vu
+- [ ] **Reframing Human-AI Collaboration for Generating Free-Text Explanations** Sarah Wiegreffe, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi
+- [ ] **Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework** Minghao Zhu, Junli Wang, Chungang Yan
+- [ ] **Disentangled Action Recognition with Knowledge-bases** Zhekun Luo, Shalini Ghosh, Devin Guillory, Keizo Kato, Trevor Darrell, Huijuan Xu
+- [ ] **Cross-document Misinformation Detection based on Event Graph Reasoning** Xueqing Wu, Kung-Hsiang Huang, Yi Fung, Heng Ji
+- [ ] **Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization** Haode Zhang, Haowen Liang, Yuwei Zhang, Li-Ming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Y.S. Lam
+- [ ] **On the Robustness of Reading Comprehension Models to Entity Renaming** Jun Yan, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren
+- [ ] **Towards Robust and Semantically Organised Latent Representations for Unsupervised Text Transfer** Sharan Narasimhan, Suvodip Dey, Maunendra Sankar Desarkar
+- [ ] **On Synthetic Data for Back Translation** Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu
+- [ ] **Diversifying Neural Dialogue Generation via Negative Distillation** Yiwei Li, Shaoxiong Feng, Bin Sun, Kan Li
+- [ ] **Ask Me Anything in Your Native Language** Nikita Sorokin, Dmitry Abulkhanov, Irina Piontkovskaya, Valentin Malykh
+- [ ] **Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding** Hao Huang, Xiubo Geng, Guodong Long, Daxin Jiang
+- [ ] **Empathic Machines: Using Intermediate Features as Levers to Emulate Emotions in Text-To-Speech Systems** Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Anil Kumar Nelakanti, Vineet Gandhi
+- [ ] **TSTR: Too Short to Represent, Summarize with Details! Intro-Guided Extended Summary Generation** Sajad Sotudeh, Nazli Goharian
+- [ ] **Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds** Yu Zhang, Yu Meng, Xuan Wang, Sheng Wang, Jiawei Han
+- [ ] **GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers** Ali Modarressi, Mohsen Fayyaz, Yadollah Yaghoobzadeh, Mohammad Taher Pilehvar
+- [ ] **Cooperative Self-training of Machine Reading Comprehension** Hongyin Luo, Shang-Wen Li, Mingye Gao, Seunghak Yu, James R. Glass
+- [ ] **Political Ideology and Polarization: A Multi-dimensional Approach** Barea Sinno, Bernardo Oviedo, Katherine Atwell, Malihe Alikhani, Junyi Jessy Li
+- [ ] **CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data** Rui Feng, Chen Luo, Qingyu Yin, Bing Yin, Tuo Zhao, Chao Zhang
+- [ ] **Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation** Yu Li, Baolin Peng, yelong shen, Yi Mao, Lars Liden, Zhou Yu, Jianfeng Gao
+- [ ] **NewsEdits: A Dataset of News Article Revision Histories and a Novel Document-Level Reasoning Challenge** Alexander Spangher, Xiang Ren, Jonathan May, Nanyun Peng
+- [ ] **Batch-Softmax Contrastive Loss for Pairwise Sentence Scoring Tasks** Anton Chernyavskiy, Dmitry Ilvovsky, Pavel Kalinin, Preslav Nakov
+- [ ] **Enhancing Self-Attention with Knowledge-Assisted Attention Maps** Jiangang Bai, Yujing Wang, Hong Sun, Ruonan Wu, Tianmeng Yang, Pengfei Tang, Wei Shen, Defu Cao, Mingliang Zhang, Yaming Yang, Jing Bai, Yunhai Tong, Hao Sun, Ruofei Zhang
+- [ ] **Semantic Diversity in Dialogue with Natural Language Inference** Katherine Stasaski, Marti Hearst
+- [ ] **Learning Natural Language Generation from Scratch with Truncated Reinforcement Learning** Alice Martin, Guillaume Quispe, Charles Ollion, Sylvain Le Corff, Florian Strub, Olivier Pietquin
+- [ ] **Social Norms Guide Reference Resolution** Mitchell Abrams, Matthias Scheutz
+- [ ] **Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia** Samee Omotayo Ibraheem, Gaoyue Zhou, John DeNero
+- [ ] **SwahBERT: Language Model of Swahili** Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo
