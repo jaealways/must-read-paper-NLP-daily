@@ -12,7 +12,7 @@
 
     James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon
 
-- [ ] “FRUIT: Faithfully Reflecting Updated Information in Text”
+- [x] “FRUIT: Faithfully Reflecting Updated Information in Text”
 
     Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang
 
@@ -175,7 +175,6 @@
 - [ ] **Adaptable Adapters** Nafise Sadat Moosavi, Quentin Delfosse, Kristian Kersting, Iryna Gurevych
 - [ ] **Maize: Effective and Efficient Retrieval via Lightweight Late Interaction** Keshav Santhanam, Omar Khattab, Jon Saad-Falcon, Christopher Potts, Matei Zaharia
 - [ ] **Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog** Chia-Chien Hung, Anne Lauscher, Ivan Vulić, Simone Paolo Ponzetto, Goran Glavaš
-- [ ] **FRUIT: Faithfully Reflecting Updated Information in Text** Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang
 - [ ] **Learning the Ordering of Coordinate Compounds and Elaborate Expressions in Hmong, Lahu, and Chinese** Chenxuan Cui, Katherine J. Zhang, David R Mortensen
 - [ ] **Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities** Benjamin Hsu, Graham Horwood
 - [ ] **PROMPT WAYWARDNESS: The Curious Case of Discretized Interpretation of Continuous Prompts** Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sameer Singh, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Yejin Choi
