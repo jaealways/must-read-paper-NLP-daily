@@ -9,7 +9,9 @@ List of papers must read in NLP for 2024
 
 ## Updated on 2024.01.01
 
-|Publish Date|Title|Authors|PDF|KOR_SUM|TAGS|
+# Must-read LIST
+
+|Date|Title|Authors|PDF|KOR_SUM|TAGS|
 |---|---|---|---|---|---|
 |**01-04**|**Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models**|Myra Cheng et.al.|[2305.18189](https://arxiv.org/pdf/2305.18189.pdf)|**[link]()**|ACL2023, prompt|
 |**01-03**|**From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models**|Shangbin Feng et.al.|[2305.08283](https://arxiv.org/pdf/2305.08283.pdf)|**[link]()**|ACL2023, AI ethics|
