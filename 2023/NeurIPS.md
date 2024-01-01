@@ -8,7 +8,7 @@
     Thomas Steinke · Milad Nasr · Matthew Jagielski
 - [ ] Are Emergent Abilities of Large Language Models a Mirage?
     Rylan Schaeffer · Brando Miranda · Sanmi Koyejo
-- [ ] Scaling Data-Constrained Language Models
+- [x] Scaling Data-Constrained Language Models
     Niklas Muennighoff · Alexander Rush · Boaz Barak · Teven Le Scao · Nouamane Tazi · Aleksandra Piktus · Sampo Pyysalo · Thomas Wolf · Colin Raffel
 - [ ] Direct Preference Optimization: Your Language Model is Secretly a Reward Model
     Rafael Rafailov · Archit Sharma · Eric Mitchell · Christopher D Manning · Stefano Ermon · Chelsea Finn
