@@ -36,7 +36,7 @@
 - [ ]  Incorporating Worker Perspectives into MTurk Annotation Practices for NLP*Olivia Huang, Eve Fleisig and Dan Klein*
 - [ ]  Physician Detection of Clinical Harm in Machine Translation: Quality Estimation Aids in Reliance and Backtranslation Identifies Critical Errors*Nikita Mehandru, Sweta Agrawal, Yimin Xiao, Ge Gao, Elaine C Khoong, Marine Carpuat and Niloufar Salehi*
 - [ ]  Preserving Knowledge Invariance: Rethinking Robustness Evaluation of Open Information Extraction*Ji Qi, Chuchun Zhang, Xiaozhi Wang, Kaisheng Zeng, Jifan Yu, Jinxin Liu, Lei Hou, Juanzi Li and Xu Bin*
-- [ ]  Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents*Weiwei Sun, Lingyong Yan, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin and Zhaochun Ren*
+- [x]  Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents*Weiwei Sun, Lingyong Yan, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin and Zhaochun Ren*
 - [ ]  Unraveling Feature Extraction Mechanisms in Neural Networks*Xiaobing Sun, Jiaxi Li and Wei Lu*
 - [ ]  ViPE: Visualise Pretty-much Everything*Hassan Shahmohammadi, Adhiraj Ghosh and Hendrik Lensch*
 - [ ]  Revisiting the Optimality of Word Lengths*Tiago Pimentel, Clara Meister, Ethan Wilcox, Kyle Mahowald and Ryan Cotterell*
