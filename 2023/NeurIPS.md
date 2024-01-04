@@ -55,7 +55,7 @@ Dan Fu · Simran Arora · Jessica Grogan · Isys Johnson · Evan Sabri Eyuboglu 
 Royi Rassin · Eran Hirsch · Daniel Glickman · Shauli Ravfogel · Yoav Goldberg · Gal Chechik
 - [ ] A Measure-Theoretic Axiomatisation of Causality
 Junhyung Park · Simon Buchholz · Bernhard Schölkopf · Krikamol Muandet
-- [ ] QLoRA: Efficient Finetuning of Quantized LLMs
+- [x] QLoRA: Efficient Finetuning of Quantized LLMs
 Tim Dettmers · Artidoro Pagnoni · Ari Holtzman · Luke Zettlemoyer
 - [ ] Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation
 Sébastien Lachapelle · Divyat Mahajan · Ioannis Mitliagkas · Simon Lacoste-Julien
