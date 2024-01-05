@@ -60,7 +60,7 @@
 - [ ]  Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths*Xiangqing Shen, Siwei Wu and Rui Xia*
 - [ ]  Dissecting Transformer Length Extrapolation via the Lens of Receptive Field Analysis*Ta-Chung Chi, Ting-Han Fan, alexander rudnicky and Peter Ramadge*
 - [ ]  Distilling Script Knowledge from Large Language Models for Constrained Language Planning*Siyu Yuan, Jiangjie Chen, Ziquan Fu, Xuyang Ge, Soham Shah, Charles Jankowski, Yanghua Xiao and Deqing Yang*
-- [ ]  Do PLMs Know and Understand Ontological Knowledge?*Weiqi Wu, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu*
+- [x]  Do PLMs Know and Understand Ontological Knowledge?*Weiqi Wu, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu*
 - [ ]  Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments*Yu Gu, Xiang Deng and Yu Su*
 - [ ]  Extrinsic Evaluation of Machine Translation Metrics*Nikita Moghe, Tom Sherborne, Mark Steedman and Alexandra Birch*
 - [ ]  Faithful Low-Resource Data-to-Text Generation through Cycle Training*Zhuoer Wang, Marcus Collins, Nikhita Vedula, Simone Filice, Shervin Malmasi and Oleg Rokhlenko*
