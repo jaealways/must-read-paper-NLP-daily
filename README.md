@@ -12,12 +12,20 @@ List of papers with recent trends for NLP in 2024
 - [2023 WMT](https://github.com/jaealways/must-read-paper-daily/blob/main/2023/WMT.md)
 
 
-## Updated on 2024.01.08
+## Updated on 2024.01.12
 
 # Must-read LIST
 
 |Date|Title|Authors|PDF|KOR_SUM|TAGS|TLDR|
 |---|---|---|---|---|---|---|
+|**01-17**|**Do Androids Laugh at Electric Sheep? Humor ¡°Understanding¡± Benchmarks from The New Yorker Caption Contest**|J.Hessel et.al.|[2209.06293](https://arxiv.org/pdf/2209.06293.pdf)|**[]()**|ACL'23, benchmark| |
+|**01-16**|**Don¡¯t Blame the Annotator: Bias Already Starts in the Annotation Instructions**|M.Parmar et.al.|[2205.00415](https://arxiv.org/pdf/2205.00415.pdf)|**[]()**|EACL'23, annotation| |
+|**01-15**|**DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models**|Yuqi Nie et.al.|[2306.11698](https://arxiv.org/pdf/2306.11698.pdf)|**[]()**|NeurIPS'23, evaluation| |
+|**01-14**|**Do Prompt-Based Models Really Understand the Meaning of Their Prompts?**|Albert Webson et.al.|[2109.01247](https://arxiv.org/pdf/2109.01247.pdf)|**[]()**|NAACL'22, prompt| |
+|**01-13**|**Template-free Prompt Tuning for Few-shot NER**|Ruotian Ma et.al.|[2109.13532](https://arxiv.org/pdf/2109.13532.pdf)|**[]()**|NAACL'22, prompt| |
+|**01-12**|**Probing via Prompting and Pruning**|Jiaoda Li et.al.|[2207.01736](https://arxiv.org/pdf/2207.01736.pdf)|**[]()**|NAACL'22, prompt| |
+|**01-11**|**Are Emergent Abilities of Large Language Models a Mirage?**|R.Schaeffer et.al.|[2304.15004](https://arxiv.org/pdf/2304.15004.pdf)|**[]()**|NeurIPS'23, LLM| |
+|**01-10**|**Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters**|B.Wang et.al.|[2212.10001](https://arxiv.org/pdf/2212.10001.pdf)|**[]()**|ACL'23, prompt| |
 |**01-09**|**A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS**|Yuqi Nie et.al.|[2211.14730](https://arxiv.org/pdf/2211.14730.pdf)|**[]()**|ICLR'23, time-series| |
 |**01-08**|**Do PLMs Know and Understand Ontological Knowledge?**|Weiqi Wu et.al.|[2309.05936](https://arxiv.org/pdf/2309.05936.pdf)|**[]()**|ACL'23, PLM| |
 |**01-07**|**QLoRA: Efficient Finetuning of Quantized LLMs**|Tim Dettmers et.al.|[2305.14314](https://arxiv.org/pdf/2305.14314.pdf)|**[]()**|NeurIPS'23, fine-tuning| |
