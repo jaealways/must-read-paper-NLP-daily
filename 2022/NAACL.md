@@ -58,7 +58,7 @@
 - [ ] **Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs** Ghazi Felhi, Joseph Le Roux, Djamé Seddah
 - [ ] **LaMemo: Language Modeling with Look-Ahead Memory** Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang
 - [ ] **Few-Shot Document-Level Relation Extraction** Nicholas Popovic, Michael Färber
-- [ ] **Template-free Prompt Tuning for Few-shot NER** Ruotian Ma, Xin Zhou, Tao Gui, Yiding Tan, Linyang Li, Qi Zhang, Xuanjing Huang
+- [x] **Template-free Prompt Tuning for Few-shot NER** Ruotian Ma, Xin Zhou, Tao Gui, Yiding Tan, Linyang Li, Qi Zhang, Xuanjing Huang
 - [ ] **Hyperbolic Relevance Matching for Neural Keyphrase Extraction** Mingyang Song, Yi Feng, Liping Jing
 - [ ] **DialSummEval: Revisiting Summarization Evaluation for Dialogues** Mingqi Gao, Xiaojun Wan
 - [ ] **CoMPM: Context Modeling with Speaker’s Pre-trained Memory Tracking for Emotion Recognition in Conversation** Joosung Lee, Wooin Lee
@@ -258,7 +258,7 @@
 - [ ] **Towards Understanding Large-Scale Discourse Structures in Pre-Trained and Fine-Tuned Language Models** Patrick Huber, Giuseppe Carenini
 - [ ] **Sparse Distillation: Speeding Up Text Classification by Using Bigger Student Models** Qinyuan Ye, Madian Khabsa, Mike Lewis, Sinong Wang, Xiang Ren, Aaron Jaech
 - [ ] **GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval** Kexin Wang, Nandan Thakur, Nils Reimers, Iryna Gurevych
-- [ ] **Do Prompt-Based Models Really Understand the Meaning of Their Prompts?** Albert Webson, Ellie Pavlick
+- [x] **Do Prompt-Based Models Really Understand the Meaning of Their Prompts?** Albert Webson, Ellie Pavlick
 - [ ] **MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection** Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Thien Huu Nguyen
 - [ ] **End-to-End Chinese Speaker Identification: Formulation, Annotation, and Methods** Dian Yu, Ben Zhou, Dong Yu
 - [ ] **Learning to Express in Knowledge-Grounded Conversation** Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan
@@ -328,7 +328,7 @@
 - [ ] **Towards a Progression-Aware Autonomous Dialogue Agent** Abraham Sanders, Tomek Strzalkowski, Mei Si, Albert Chang
 - [ ] **Unsupervised Slot Schema Induction for Task-oriented Dialog** Dian Yu, Mingqiu Wang, Yuan Cao, Izhak Shafran, Laurent El Shafey, Hagen Soltau
 - [ ] **Database Search Results Disambiguation for Task-Oriented Dialog Systems** Kun Qian, Satwik Kottur, Ahmad Beirami, Shahin Shayandeh, Paul A. Crook, Alborz Geramifard, Zhou Yu, Chinnadhurai Sankar
-- [ ] **Probing via Prompting and Pruning** Jiaoda Li, Mrinmaya Sachan, Ryan D Cotterell
+- [x] **Probing via Prompting and Pruning** Jiaoda Li, Mrinmaya Sachan, Ryan D Cotterell
 - [ ] **CoSe-Co: Text Conditioned Generative CommonSense Contextualizer** Rachit Bansal, Milan Aggarwal, Sumit Bhatia, Jivat Neet Kaur, Balaji Krishnamurthy
 - [ ] **DREAM: Improving Situational QA by First Elaborating the Situation** Yuling Gu, Bhavana Dalvi, Peter Clark
 - [ ] **Masked Part-Of-Speech Model: Does modeling long context help unsupervised POS-tagging?** Xiang Zhou, Shiyue Zhang, Mohit Bansal
