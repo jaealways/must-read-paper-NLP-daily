@@ -10,7 +10,7 @@
     
     *Jack Hessel, Ana Marasovic, Jena D. Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff and Yejin Choi*
     
-- [ ]  What the DAAM: Interpreting Stable Diffusion Using Cross Attention
+- [x]  What the DAAM: Interpreting Stable Diffusion Using Cross Attention
     
     *Raphael Tang, Linqing Liu, Akshat Pandey, Zhiying Jiang, Gefei Yang, Karun Kumar, Pontus Stenetorp, Jimmy Lin and Ferhan Ture*
     

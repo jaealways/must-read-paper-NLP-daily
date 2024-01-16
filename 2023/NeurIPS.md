@@ -6,7 +6,7 @@
 
 - [ ] Privacy Auditing with One (1) Training Run
     Thomas Steinke · Milad Nasr · Matthew Jagielski
-- [ ] Are Emergent Abilities of Large Language Models a Mirage?
+- [x] Are Emergent Abilities of Large Language Models a Mirage?
     Rylan Schaeffer · Brando Miranda · Sanmi Koyejo
 - [x] Scaling Data-Constrained Language Models
     Niklas Muennighoff · Alexander Rush · Boaz Barak · Teven Le Scao · Nouamane Tazi · Aleksandra Piktus · Sampo Pyysalo · Thomas Wolf · Colin Raffel
