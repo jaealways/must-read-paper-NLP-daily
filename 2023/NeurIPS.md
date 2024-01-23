@@ -23,7 +23,7 @@
 
 - [ ] Ordering-based Conditions for Global Convergence of Policy Gradient Methods
 Jincheng Mei · Bo Dai · Alekh Agarwal · Mohammad Ghavamzadeh · Csaba Szepesvari · Dale Schuurmans
-- [ ] LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
+- [x] LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
 Kaiyu Yang · Aidan Swope · Alex Gu · Rahul Chalamala · Peiyang Song · Shixing Yu · Saad Godil · Ryan J Prenger · Animashree Anandkumar
 - [ ] Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization
 Kaiyue Wen · Zhiyuan Li · Tengyu Ma
@@ -35,7 +35,7 @@ Siliang Zeng · Chenliang Li · Alfredo Garcia · Mingyi Hong
 Sibylle Marcotte · Remi Gribonval · Gabriel Peyré
 - [ ] Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach
 Fabian Zaiser · Andrzej Murawski · Chih-Hao Luke Ong
-- [ ] OpenAssistant Conversations - Democratizing Large Language Model Alignment
+- [x] OpenAssistant Conversations - Democratizing Large Language Model Alignment
 Andreas Köpf · Yannic Kilcher · Dimitri von Rütte · Sotiris Anagnostidis · Zhi Rui Tam · Keith Stevens · Abdullah Barhoum · Duc Nguyen · Oliver Stanley · Richárd Nagyfi · Shahul ES · Sameer Suri · David Glushkov · Arnav Dantuluri · Andrew Maguire · Christoph Schuhmann · Huu Nguyen · Alexander Mattick
 - [ ] A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning
 Alicia Curth · Alan Jeffares · Mihaela van der Schaar
@@ -103,7 +103,7 @@ Alex Damian · Eshaan Nichani · Rong Ge · Jason Lee
 Yujia Zheng · Kun Zhang
 - [ ] Quilt-1M: One Million Image-Text Pairs for Histopathology
 Wisdom Ikezogwo · Saygin Seyfioglu · Fatemeh Ghezloo · Dylan Geva · Fatwir Sheikh Mohammed · Pavan Kumar Anand · Ranjay Krishna · Linda Shapiro
-- [ ] Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
+- [x] Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
 Yu Bai · Fan Chen · Huan Wang · Caiming Xiong · Song Mei
 - [ ] Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective
 Guhao Feng · Bohang Zhang · Yuntian Gu · Haotian Ye · Di He · Liwei Wang
@@ -127,7 +127,7 @@ David Ruhe · Johannes Brandstetter · Patrick Forré
 Tushar Nagarajan · Santhosh Kumar Ramakrishnan · Ruta Desai · James Hillis · Kristen Grauman
 - [ ] Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition
 Samuel Dooley · Rhea Sukthanker · John Dickerson · Colin White · Frank Hutter · Micah Goldblum
-- [ ] DataComp: In search of the next generation of multimodal datasets
+- [x] DataComp: In search of the next generation of multimodal datasets
 Samir Yitzhak Gadre · Gabriel Ilharco · Alex Fang · Jonathan Hayase · Georgios Smyrnis · Thao Nguyen · Ryan Marten · Mitchell Wortsman · Dhruba Ghosh · Jieyu Zhang · Eyal Orgad · Rahim Entezari · Giannis Daras · Sarah Pratt · Vivek Ramanujan · Yonatan Bitton · Kalyani Marathe · Stephen Mussmann · Richard Vencu · Mehdi Cherti · Ranjay Krishna · Pang Wei Koh · Olga Saukh · Alexander Ratner · Shuran Song · Hannaneh Hajishirzi · Ali Farhadi · Romain Beaumont · Sewoong Oh · Alex Dimakis · Jenia Jitsev · Yair Carmon · Vaishaal Shankar · Ludwig Schmidt
 - [ ] Ethical Considerations for Responsible Data Curation
 Jerone Andrews · Dora Zhao · William Thong · Apostolos Modas · Orestis Papakyriakopoulos · Alice Xiang

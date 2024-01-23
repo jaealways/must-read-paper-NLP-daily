@@ -32,7 +32,7 @@
 
 - [ ]  LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers*Theo X. Olausson, Alex Gu, Ben Lipkin, Cedegao E. Zhang, Armando Solar-Lezama, Joshua B. Tenenbaum and Roger P. Levy*
 - [ ]  Toward a Critical Toponymy Framework for Named Entity Recognition: A Case Study of Airbnb in New York City*Mikael Brunila, Jack LaViolette, Sky CH-Wang, Priyanka Verma, Clara Féré and Grant McKenzie*
-- [ ]  SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization*Hyunwoo Kim, Jack Hessel, Liwei Jiang, Peter West, Ximing Lu, Youngjae Yu, Pei Zhou, Ronan Le Bras, Malihe Alikhani, Gunhee Kim, Maarten Sap and Yejin Choi*
+- [x]  SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization*Hyunwoo Kim, Jack Hessel, Liwei Jiang, Peter West, Ximing Lu, Youngjae Yu, Pei Zhou, Ronan Le Bras, Malihe Alikhani, Gunhee Kim, Maarten Sap and Yejin Choi*
 - [ ]  Incorporating Worker Perspectives into MTurk Annotation Practices for NLP*Olivia Huang, Eve Fleisig and Dan Klein*
 - [ ]  Physician Detection of Clinical Harm in Machine Translation: Quality Estimation Aids in Reliance and Backtranslation Identifies Critical Errors*Nikita Mehandru, Sweta Agrawal, Yimin Xiao, Ge Gao, Elaine C Khoong, Marine Carpuat and Niloufar Salehi*
 - [ ]  Preserving Knowledge Invariance: Rethinking Robustness Evaluation of Open Information Extraction*Ji Qi, Chuchun Zhang, Xiaozhi Wang, Kaisheng Zeng, Jifan Yu, Jinxin Liu, Lei Hou, Juanzi Li and Xu Bin*

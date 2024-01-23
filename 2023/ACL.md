@@ -94,7 +94,7 @@
 
 ### **Linguistic Diversity**:
 
-- Small Data, Big Impact: Leveraging Minimal Data for Effective Machine Translation
+- [ ] Small Data, Big Impact: Leveraging Minimal Data for Effective Machine Translation
     
     *Jean Maillard, Cynthia Gao, Elahe Kalbassi, Kaushik Ram Sadagopan, Vedanuj Goswami, Philipp Koehn, Angela Fan and Francisco Guzman*
     

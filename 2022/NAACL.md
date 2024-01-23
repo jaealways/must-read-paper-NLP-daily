@@ -141,9 +141,9 @@
 - [ ] **FNet: Mixing Tokens with Fourier Transforms** James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon
 - [ ] **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** Yisi Sang, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton
 - [ ] **Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation** Siyu Lai, Zhen Yang, Fandong Meng, Xue Zhang, Yufeng Chen, Jinan Xu, Jie Zhou
-- [ ] **ProQA: Structural Prompt-based Pre-training for Unified Question Answering** Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan
+- [x] **ProQA: Structural Prompt-based Pre-training for Unified Question Answering** Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan
 - [ ] **Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction** Junjie Li, Jianfei Yu, Rui Xia
-- [ ] **DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings** Yung-Sung Chuang, Rumen Dangovski, Hongyin Luo, Yang Zhang, Shiyu Chang, Marin Soljacic, Shang-Wen Li, Scott Yih, Yoon Kim, James R. Glass
+- [x] **DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings** Yung-Sung Chuang, Rumen Dangovski, Hongyin Luo, Yang Zhang, Shiyu Chang, Marin Soljacic, Shang-Wen Li, Scott Yih, Yoon Kim, James R. Glass
 - [ ] **Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers** Vivek Kumar, Rishabh Maheshwary, Vikram Pudi
 - [ ] **Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold** Yanan Wu, Keqing He, Yuanmeng Yan, QiXiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu
 - [ ] **COGMEN: COntextualized GNN based Multimodal Emotion recognitioN** Abhinav Joshi, Ashwani Bhat, Ayush Jain, Atin Vikram Singh, Ashutosh Modi

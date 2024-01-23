@@ -13,7 +13,7 @@
 - [ ] **[A Human Subject Study of Named Entity Recognition (NER) in Conversational Music Recommendation Queries](https://aclanthology.org/2023.eacl-main.92.pdf).** Elena V. Epure and Romain Hennequin.
 - [x] **[Don’t Blame the Annotator: Bias Already Starts in the Annotation Instructions](https://aclanthology.org/2023.eacl-main.130/).** Mihir Parmar, Swaroop Mishra, Mor Geva and Chitta Baral.
 - [ ] **[USCORE: An Effective Approach to Fully Unsupervised Evaluation Metrics for Machine Translation](https://aclanthology.org/2023.eacl-main.27/).** Jonas Belouadi and Steffen Eger.
-- [ ] **[LONGEVAL: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization.](https://aclanthology.org/2023.eacl-main.121.pdf)**Kalpesh Krishna, Erin Bransom, Bailey E. Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan and Kyle Lo.
+- [x] **[LONGEVAL: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization.](https://aclanthology.org/2023.eacl-main.121.pdf)**Kalpesh Krishna, Erin Bransom, Bailey E. Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan and Kyle Lo.
 - [ ] **[NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages](https://aclanthology.org/2023.eacl-main.57/).** Genta Indra Winata, Alham Fikri Aji, Samuel Cahyawijaya, Rahmad Mahendra, Fajri Koto, Ade Romadhony, Kemal Maulana Kurniawan, David Moeljadi, Radityo Eko Prasojo, Pascale Fung, Timothy Baldwin, Jey Han Lau, Rico Sennrich and Sebastian Ruder.
 
 ## **Best System Demonstration**
