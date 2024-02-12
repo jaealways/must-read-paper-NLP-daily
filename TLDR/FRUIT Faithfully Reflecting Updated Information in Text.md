@@ -1,17 +1,4 @@
----
-layout: post
-title:  "[TLDR] FRUIT: Faithfully Reflecting Updated Information in Text"
-author: jaealways
-categories: [ paper, NLP]
-tags: [TLDR, NAACL'22, Information]
----
-
-
 # [TLDR] FRUIT : Faithfully Reflecting Updated Information in Text
-
-
-[reference: Robert L. Logan IV et al, "FRUIT : Faithfully Reflecting Updated Information in Text", 2022](https://arxiv.org/pdf/2112.08634.pdf)
-
 
 
 # Abstract

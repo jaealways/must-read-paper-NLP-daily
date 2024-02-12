@@ -1,18 +1,4 @@
----
-layout: post
-title:  "[TLDR] Scaling Data-Constrained Language Models
-"
-author: jaealways
-categories: [ paper, NLP]
-tags: [TLDR, NeurIPS'23, LLM, Scaling ]
----
-
-
 # [TLDR] Scaling Data-Constrained Language Models
-
-
-
-[reference: Niklas Muennighoff et al, "Scaling Data-Constrained Language Models", 2023](https://arxiv.org/pdf/2305.16264.pdf)
 
 
 # Abstract
