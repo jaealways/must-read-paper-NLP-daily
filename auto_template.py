@@ -1,7 +1,7 @@
 import markdown
 import re
 import os
-import arxiv
+# import arxiv
 
 
 def get_markdown_table():
@@ -55,7 +55,7 @@ def check_duplicate(list_title, new_title, exist_title):
 
 def create_markdown_template(dict_title):
     for key,val in dict_title.items():
-        content=f"# [TLDR] {key} \n"
+        content=f"# [TLDR] {key} \n "
         with open(f"./TLDR/{val}.md", 'w', encoding='utf-8') as file:
             file.write(content)
 
