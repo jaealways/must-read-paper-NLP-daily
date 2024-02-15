@@ -117,7 +117,7 @@ Jihao Andreas Lin · Javier Antorán · Shreyas Padhy · David Janz · José Mig
 Johanna Immonen · Amauri Souza · Vikas Garg
 - [ ] Students Parrot Their Teachers: Membership Inference on Model Distillation
 Matthew Jagielski · Milad Nasr · Katherine Lee · Christopher A. Choquette-Choo · Nicholas Carlini · Florian Tramer
-- [ ] Visual Instruction Tuning
+- [x] Visual Instruction Tuning
 Haotian Liu · Chunyuan Li · Qingyang Wu · Yong Jae Lee
 - [ ] A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods
 Veit David Wild · Sahra Ghalebikesabi · Dino Sejdinovic · Jeremias Knoblauch

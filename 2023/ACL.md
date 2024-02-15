@@ -72,7 +72,7 @@
 - [ ]  Language model acceptability judgements are not always robust to context*Koustuv Sinha, Jon Gauthier, Aaron Mueller, Kanishka Misra, Keren Fuentes, Roger Levy and Adina Williams*
 - [ ]  Linear Classifier: An Often-Forgotten Baseline for Text Classification*Yu-Chen Lin, Si-An Chen, Jie-Jyun Liu and Chih-Jen Lin*
 - [ ]  Minding Language Models’ (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker*Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov*
-- [ ]  MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning*Zhiyang Xu, Ying Shen and Lifu Huang*
+- [x]  MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning*Zhiyang Xu, Ying Shen and Lifu Huang*
 - [ ]  Multilingual LLMs are Better Cross-lingual In-context Learners with Alignment*Eshaan Tanwar, Subhabrata Dutta, Manish Borthakur and Tanmoy Chakraborty*
 - [ ]  Neural Machine Translation Methods for Translating Text to Sign Language Glosses*Dele Zhu, Vera Czehmann and Eleftherios Avramidis*
 - [ ]  NLPositionality: Characterizing Design Biases of Datasets and Models*Sebastin Santy, Jenny Liang, Ronan Le Bras, Katharina Reinecke and Maarten Sap*
